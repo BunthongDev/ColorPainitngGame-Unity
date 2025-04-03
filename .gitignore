@@ -1,0 +1,40 @@
+# Unity generated files
+/[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Unity package manager
+/[Pp]ackages/
+
+# Visual Studio / VS Code files
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+.vscode/
+.idea/
+
+# macOS specific files
+.DS_Store
+
+# Build output
+*.apk
+*.aab
+*.unitypackage
+
+# Crash reports and logs
+sysinfo.txt
+crashlytics/
+*.log
+
+# Other
+*.bak
+*.tmp
+*.cache
