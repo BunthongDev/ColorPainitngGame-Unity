@@ -385,8 +385,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   linePrefab: {fileID: 1783504633626966994, guid: 2c99a7407977e4f1d84f85bef3fee0c2, type: 3}
-  brushColor: {r: 0.2509804, g: 0.46925882, b: 0.90588236, a: 1}
-  distanceThreshold: 0
+  color: {r: 0, g: 0.255998, b: 0.8980392, a: 1}
+  distanceThreshold: 10
 --- !u!1 &1184075585
 GameObject:
   m_ObjectHideFlags: 0
