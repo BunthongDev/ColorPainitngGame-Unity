@@ -59,4 +59,12 @@ Color Picker UI Brush Size Slider
 Contributing
 Contributions are welcome! Feel free to submit a pull request or open an issue for suggestions and bug reports.
 
+## Screenshots
+
+<img width="771" alt="image" src="https://github.com/user-attachments/assets/2237a083-f12d-431b-9fb7-bfccbaa526cf" />
+
+<img width="774" alt="image" src="https://github.com/user-attachments/assets/9ffda123-6b47-43e6-8b5b-0a57d08c11e3" />
+
+
+
 
