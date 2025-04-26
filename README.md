@@ -61,6 +61,16 @@ Contributions are welcome! Feel free to submit a pull request or open an issue f
 
 ## Screenshots
 
+# Scene 1
+<img width="774" alt="image" src="https://github.com/user-attachments/assets/236a5da3-b979-4f11-92f7-c7732d2b4e2c" />
+
+# Scene 2
+<img width="759" alt="image" src="https://github.com/user-attachments/assets/be872386-1703-42d6-9c1b-8401272b6f97" />
+
+# Scene 3
+<img width="770" alt="image" src="https://github.com/user-attachments/assets/34fa2e9a-3a4d-40b3-b149-dd245cd311a6" />
+
+# Scene 4
 <img width="771" alt="image" src="https://github.com/user-attachments/assets/2237a083-f12d-431b-9fb7-bfccbaa526cf" />
 
 <img width="774" alt="image" src="https://github.com/user-attachments/assets/9ffda123-6b47-43e6-8b5b-0a57d08c11e3" />
