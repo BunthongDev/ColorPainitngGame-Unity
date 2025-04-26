@@ -59,11 +59,4 @@ Color Picker UI Brush Size Slider
 Contributing
 Contributions are welcome! Feel free to submit a pull request or open an issue for suggestions and bug reports.
 
-License
-This project is licensed under the MIT License.
 
-Contact
-For questions or feedback, contact:
-
-Name: Bunthong Rorn
-Email: github.com/BunthongDev
